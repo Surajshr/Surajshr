@@ -1,6 +1,8 @@
+
+[![Social banner for jh3y](https://github.com/Surajshr/assets/blob/main/profileBaner.png)](https://www.linkedin.com/in/suraj-shrestha-63b82415a/)
 <h1 align="center">Hi 👋, I'm Suraj Shrestha</h1>
 <h3 align="center">A passionate Flutter Developer from Nepal</h3>
-
+<img align="right" alt="Coding" width="400" src ="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajshr&label=Profile%20views&color=0e75b6&style=flat" alt="surajshr" /> </p>
 
 - 🔭 I’m currently working on : [Rental System](https://github.com/Surajshr/rent_project)
@@ -11,7 +13,7 @@
 
 - 💬 Ask me about : **Flutter or any other tech related stuff**
 
-- 📫 How to reach me LinkedIn: **https://www.linkedin.com/in/suraj-shrestha-63b82415a/**
+- 📫 How to reach me : **https://www.linkedin.com/in/suraj-shrestha-63b82415a/**
 
 - ⚡ Fun fact : **I can listen podcasts all day long**
 
