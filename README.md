@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajshr&label=Profile%20views&color=0e75b6&style=flat" alt="surajshr" /> </p>
 
-- 🔭 I’m currently working on : [Good Vibe App]([https://github.com/Surajshr/rent_project](https://play.google.com/store/apps/details?id=com.goodvibes&hl=en&gl=US))
+- 🔭 I’m currently working on : [Good Vibe App](https://play.google.com/store/apps/details?id=com.goodvibes&hl=en&gl=US)
 
 - 🌱 I’m currently learning : **Native of Mobile application development**
 
