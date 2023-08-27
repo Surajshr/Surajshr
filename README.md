@@ -5,13 +5,13 @@
 <img align="right" alt="Coding" width="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajshr&label=Profile%20views&color=0e75b6&style=flat" alt="surajshr" /> </p>
 
-- 🔭 I’m currently working on : [Rental System](https://github.com/Surajshr/rent_project)
+- 🔭 I’m currently working on : [Good Vibe App]([https://github.com/Surajshr/rent_project](https://play.google.com/store/apps/details?id=com.goodvibes&hl=en&gl=US))
 
-- 🌱 I’m currently learning : **Flutter backend, Firebase and Firestore**
+- 🌱 I’m currently learning : **Native of Mobile application development**
 
-- 🤝 I’m looking for help with : **Firebase**
+- 🤝 I’m looking for help with : **Mobile application development**
 
-- 💬 Ask me about : **Flutter or any other tech related stuff**
+- 💬 Ask me about : **Mobile application development or any other tech related stuff**
 
 - 📫 How to reach me : **https://www.linkedin.com/in/suraj-shrestha-63b82415a/**
 
