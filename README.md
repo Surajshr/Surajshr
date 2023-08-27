@@ -19,10 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100009734283073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009734283073" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/suraj-shrestha-63b82415a/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.facebook.com/profile.php?id=100009734283073" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/suraj1shrestha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suraj1shrestha/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/trFabVxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/trFabVxd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
